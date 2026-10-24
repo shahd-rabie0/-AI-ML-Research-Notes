@@ -1,4 +1,4 @@
- GPU vs TPU
+
 ## 1. What is the difference between GPU and TPU?
 
 **GPU (Graphics Processing Unit)** was originally designed to process graphics, but it is now widely used in AI and deep learning.
